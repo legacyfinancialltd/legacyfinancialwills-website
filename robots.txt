@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.legacyfinancialwills.co.uk/sitemap.xml
